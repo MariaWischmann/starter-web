@@ -13,3 +13,7 @@ This is a simle web project, deploymnet can be on any web server or even local f
 Added another change to see if the tools would work.
 
 ## How to Contribute
+
+### Copyright
+
+2014 Git.Training.
